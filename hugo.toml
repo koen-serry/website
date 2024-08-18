@@ -1,0 +1,46 @@
+baseURL = 'https://www.serry.org/'
+languageCode = 'en-us'
+title = 'Crafting in a changing world'
+theme = 'blist'
+cleanDestinationDir = true
+
+[params]
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+
+  # Enable search in header
+  enableSearch = true
+  ascentColor = 'bg-sky-900 text-gray-100'
+
+  copyright = "Copyright © 2024 - Koen Serry · All rights reserved"
+  introTitle = "Koen's home"
+  introSubtitle = "My ramblings as a reminder on how fast time flies by..."
+  introPhoto = "/craft_header.jpg"
+
+  # The page bundle that is shown on the front page
+  frontBundle = "blog"
+  hidePageThumbnail = true
+
+  # Used to hide the post metadata such as posted date, reading time and word count
+  # Can be used at site level or page level
+  hideMeta = false
+  [[params.social]]
+    website = "Linkedin"
+    icon = "linkedin"
+    link = "https://www.linkedin.com/in/koenserry/"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+
+[[menu.main]]
+name = "Archive"
+weight = 20
+url = "/blog"
+
+[services]
+[services.googleAnalytics]
+ID = 'G-F4HE3XC691'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

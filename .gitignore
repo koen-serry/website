@@ -1,0 +1,6 @@
+/.idea/
+public
+node_modules
+resources
+.hugo_build.lock
+package-lock.json

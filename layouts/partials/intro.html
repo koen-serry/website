@@ -1,0 +1,6 @@
+<section class="{{ .Site.Params.ascentColor | default "bg-pink-50" }} dark:bg-gray-900">
+  <div class="container relative mx-auto px-6 py-12 items-center">
+    <img class="rounded-lg shadow-sm" src="{{ .Site.Params.introPhoto }}" alt="{{ .Site.Title }}" />
+    <p class="font-light text-lg" style="margin-top: -30px;margin-left: 5px;">{{ .Site.Params.introSubtitle | safeHTML}}</p>
+  </div>
+</section>
