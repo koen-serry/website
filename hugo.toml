@@ -1,6 +1,7 @@
 baseURL = 'https://www.serry.org/'
 languageCode = 'en-us'
 title = 'Crafting in a changing world'
+description = "Koen's home"
 theme = 'blist'
 cleanDestinationDir = true
 
