@@ -2,7 +2,7 @@
 title = 'First post on the new blog'
 date = 2006-08-15
 publishdate = 2006-08-15
-thumbnail = '/typing.jpg'
+thumbnail = '/thumbs/typing.jpg'
 +++
 
 Fjew, finally done. Just installed the new server and I have to say it, it's a lean mean killing machine :)

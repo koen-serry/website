@@ -3,7 +3,6 @@ title = 'Tomcat 6.0.20 finally supports proxied getRemoteAdr()'
 date = 2010-01-05
 publishdate = 2010-01-05
 thumbnail = "/thumbs/connected.png"
-hidePageThumbnail = true
 +++
 
 I've encountered <a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=47330">this bug</a> recently as I wanted to

@@ -2,7 +2,7 @@
 title = 'Upgrading to Ubuntu 11.10 with Oracle 11 XE'
 date = 2011-11-04
 publishdate = 2011-11-04
-thumbnail = '/oracle.jpg'
+thumbnail = '/thumbs/oracle.jpg'
 +++
 
 Well it's been **very** busy times since the last time I've posted something here. Anyways, I've installed Oracle XE 11

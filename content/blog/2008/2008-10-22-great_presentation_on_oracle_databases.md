@@ -2,7 +2,7 @@
 title = 'Great presentation on oracle databases ..or what not to do'
 date = 2008-10-22
 publishdate = 2008-10-22
-thumbnail = '/oracle.jpg'
+thumbnail = '/thumbs/oracle.jpg'
 +++
 
 This is a must read for everyone who does anything with oracle databases. 

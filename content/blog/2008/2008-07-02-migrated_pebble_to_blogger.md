@@ -2,7 +2,7 @@
 title = 'Migrated pebble to blogger'
 date = 2008-07-02
 publishdate = 2008-07-02
-thumbnail = '/typing.jpg'
+thumbnail = '/thumbs/typing.jpg'
 +++
 
 Thanks to the guys from google we got a API to post items to our blog. 

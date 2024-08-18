@@ -2,7 +2,7 @@
 title = 'First post with Hugo'
 date = 2024-08-18
 publishdate = 2024-08-18
-thumbnail = '/typing.jpg'
+thumbnail = '/thumbs/typing.jpg'
 +++
 
 Fjew, it's been a (quite) while. Last couple of weeks I've been in contact with google support
